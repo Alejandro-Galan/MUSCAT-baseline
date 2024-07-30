@@ -1,5 +1,5 @@
 <p align='center'>
-  <a href='https://praig.ua.es/'><img src='https://i.imgur.com/Iu7CvC1.png' alt='PRAIG-logo' width='100'></a>
+  <a href='https://sites.google.com/view/multiscore-project'><img src='https://www.dlsi.ua.es/~pertusa/images/capturaMultiscore.png' alt='MultiScore-logo' height='120'></a>
 </p>
 
 <h1 align='center'>MUSCAT: a Multimodal mUSic Collection for Automatic Transcription of real recordings and image scores</h1>
@@ -27,8 +27,10 @@ This repository is a modification of Alfaro-Contreras et al. work ["A Transforme
 
 This dataset is a subset of the _MUSCAT_ dataset. Each sample is an approximately 30-second cut from a longer song. The dataset can be downloaded and more information can be found at the following [link](https://grfia.dlsi.ua.es/muscat/).
 
+<br>
+
 <p align="center">
-  <img src="vertical_scheme_proposal.png" alt="content" style="border: 1px solid black; width: 800px;">
+  <img src="vertical_scheme_proposal.png" alt="content" style="border: 1px solid black; width: 550px;">
 </p>
 
 ## How To Use
