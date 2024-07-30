@@ -35,12 +35,13 @@ This dataset is a subset of the _MUSCAT_ dataset. Each sample is an approximatel
 
 The basic requirements are specified in the [`Dockerfile`](Dockerfile) and [`requirements.txt`](requirements.txt) as docker has been used. However, it is not mandatory, as any other virtual environment can be created.
 
-The experiments were carried out with an initial training phase, as [`train_muscat`](scripts/train_muscat.sh) and a final testing phase providing the previous best weights as [`test_muscat`](scripts/train_muscat.sh).
+The experiments were carried out with an initial training phase, like the script [`train_muscat`](scripts/train_muscat.sh); and a final testing phase providing the previous best weights as the script [`test_muscat`](scripts/train_muscat.sh).
 
 ## Citations
 
 
-```@inproceedings{
+```
+@inproceedings{
   galan-cuenca2024muscat,
   title={{MUSCAT}: a Multimodal m{US}ic Collection for Automatic Transcription of real recordings and image scores},
   author={Alejandro Galan-Cuenca and Jose J. Valero-Mas and Juan C. Martinez-Sevilla and Antonio Hidalgo-Centeno and Antonio Pertusa and Jorge Calvo-Zaragoza},
