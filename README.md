@@ -23,7 +23,7 @@
 
 ## About
 
-This repository is a modification of Alfaro-Contreras et al. work ["A Transformer Approach For Polyphonic Audio-To-Score Transcription"](https://github.com/mariaalfaroc/a2s-transformer). It pretends to serve as an initial baseline to the real music audio dataset _MUSCUTS_.
+This repository is a modification of the _Alfaro-Contreras et al._ work: ["A Transformer Approach For Polyphonic Audio-To-Score Transcription"](https://github.com/mariaalfaroc/a2s-transformer). It pretends to serve as an initial baseline to the real music audio dataset _MUSCUTS_.
 
 This dataset is a subset of the _MUSCAT_ dataset. Each sample is an approximately 30-second cut from a longer song. The dataset can be downloaded and more information can be found at the following [link](https://grfia.dlsi.ua.es/muscat/).
 
